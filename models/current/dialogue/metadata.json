@@ -1,0 +1,253 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_greetings.goodnight": {
+      "slots": []
+    },
+    "utter_greetings.bye": {
+      "slots": []
+    },
+    "utter_dialog.i_do_not_care": {
+      "slots": []
+    },
+    "utter_agent.ready": {
+      "slots": []
+    },
+    "utter_greetings.nice_to_meet_you": {
+      "slots": []
+    },
+    "utter_user.back": {
+      "slots": []
+    },
+    "utter_agent.bad": {
+      "slots": []
+    },
+    "utter_user.misses_agent": {
+      "slots": []
+    },
+    "utter_agent.origin": {
+      "slots": []
+    },
+    "utter_dialog.sorry": {
+      "slots": []
+    },
+    "utter_user.happy": {
+      "slots": []
+    },
+    "utter_agent.hungry": {
+      "slots": []
+    },
+    "utter_user.sad": {
+      "slots": []
+    },
+    "utter_dialog.hold_on": {
+      "slots": []
+    },
+    "utter_agent.answer_my_question": {
+      "slots": []
+    },
+    "utter_appraisal.bad": {
+      "slots": []
+    },
+    "utter_agent.good": {
+      "slots": []
+    },
+    "utter_greetings.goodmorning": {
+      "slots": []
+    },
+    "utter_agent.annoying": {
+      "slots": []
+    },
+    "utter_user.loves_agent": {
+      "slots": []
+    },
+    "utter_confirmation.no": {
+      "slots": []
+    },
+    "utter_agent.acquaintance": {
+      "slots": []
+    },
+    "utter_greetings.nice_to_see_you": {
+      "slots": []
+    },
+    "utter_agent.happy": {
+      "slots": []
+    },
+    "utter_user.testing_agent": {
+      "slots": []
+    },
+    "utter_appraisal.thank_you": {
+      "slots": []
+    },
+    "utter_emotions.ha_ha": {
+      "slots": []
+    },
+    "utter_agent.can_you_help": {
+      "slots": []
+    },
+    "utter_agent.boring": {
+      "slots": []
+    },
+    "utter_agent.marry_user": {
+      "slots": []
+    },
+    "utter_dialog.wrong": {
+      "slots": []
+    },
+    "utter_agent.age": {
+      "slots": []
+    },
+    "utter_agent.busy": {
+      "slots": []
+    },
+    "utter_appraisal.good": {
+      "slots": []
+    },
+    "utter_agent.hobby": {
+      "slots": []
+    },
+    "utter_agent.beautiful": {
+      "slots": []
+    },
+    "utter_confirmation.yes": {
+      "slots": []
+    },
+    "utter_appraisal.no_problem": {
+      "slots": []
+    },
+    "utter_agent.be_clever": {
+      "slots": []
+    },
+    "utter_user.here": {
+      "slots": []
+    },
+    "utter_user.wants_to_see_agent_again": {
+      "slots": []
+    },
+    "utter_appraisal.welcome": {
+      "slots": []
+    },
+    "utter_emotions.wow": {
+      "slots": []
+    },
+    "utter_agent.residence": {
+      "slots": []
+    },
+    "utter_user.likes_agent": {
+      "slots": []
+    },
+    "utter_user.joking": {
+      "slots": []
+    },
+    "action_search_weather": {
+      "slots": []
+    },
+    "utter_user.wants_to_talk": {
+      "slots": []
+    },
+    "utter_user.tired": {
+      "slots": []
+    },
+    "utter_greetings.whatsup": {
+      "slots": []
+    },
+    "utter_greetings.how_are_you": {
+      "slots": []
+    },
+    "utter_user.does_not_want_to_talk": {
+      "slots": []
+    },
+    "utter_agent.crazy": {
+      "slots": []
+    },
+    "utter_user.has_birthday": {
+      "slots": []
+    },
+    "utter_user.waits": {
+      "slots": []
+    },
+    "utter_user.bored": {
+      "slots": []
+    },
+    "utter_confirmation.cancel": {
+      "slots": []
+    },
+    "utter_user.looks_like": {
+      "slots": []
+    },
+    "utter_user.needs_advice": {
+      "slots": []
+    },
+    "utter_agent.funny": {
+      "slots": []
+    },
+    "utter_user.sleepy": {
+      "slots": []
+    },
+    "utter_user.excited": {
+      "slots": []
+    },
+    "utter_appraisal.well_done": {
+      "slots": []
+    },
+    "utter_user.lonely": {
+      "slots": []
+    },
+    "utter_agent.fired": {
+      "slots": []
+    },
+    "utter_user.good": {
+      "slots": []
+    },
+    "utter_agent.chatbot": {
+      "slots": []
+    },
+    "utter_agent.my_friend": {
+      "slots": []
+    },
+    "utter_agent.occupation": {
+      "slots": []
+    },
+    "utter_agent.boss": {
+      "slots": []
+    },
+    "utter_greetings.nice_to_talk_to_you": {
+      "slots": []
+    },
+    "utter_user.angry": {
+      "slots": []
+    },
+    "utter_agent.there": {
+      "slots": []
+    },
+    "utter_agent.clever": {
+      "slots": []
+    },
+    "utter_greetings.hello": {
+      "slots": []
+    },
+    "utter_agent.birth_date": {
+      "slots": []
+    }
+  },
+  "python": "3.6.8",
+  "max_histories": [
+    5,
+    null,
+    5,
+    5
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.keras_policy.KerasPolicy",
+    "rasa_core.policies.fallback.FallbackPolicy",
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.mapping_policy.MappingPolicy"
+  ],
+  "trained_at": "20190522-111653",
+  "rasa_core": "0.14.4",
+  "tensorflow": "1.13.1",
+  "sklearn": "0.20.3"
+}

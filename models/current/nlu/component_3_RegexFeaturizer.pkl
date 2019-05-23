@@ -1,0 +1,10 @@
+[
+    {
+        "name": "location",
+        "pattern": "(?i)(\\bAndhra\\ Pradesh\\b|\\bArunachal\\ Pradesh\\b|\\bAssam\\b|\\bBihar\\b|\\bChhattisgarh\\b|\\bGoa\\b|\\bAndaman\\ and\\ Nicobar\\ Islands\\b|\\bChandigarh\\b|\\bDadra\\ and\\ Nagar\\ Haveli\\b|\\bDaman\\ and\\ Diu\\b|\\bNational\\ Capital\\ Territory\\ of\\ Delhi\\b|\\bLakshadweep\\b|\\bPondicherry\\b|\\bGujarat\\b|\\bHaryana\\b|\\bHimachal\\ Pradesh\\b|\\bJammu\\ and\\ Kashmir\\b|\\bJharkhand\\b|\\bKarnataka\\b|\\bKerala\\b|\\bMadhya\\ Pradesh\\b|\\bMaharashtra\\b|\\bManipur\\b|\\bMeghalaya\\b|\\bMizoram\\b|\\bNagaland\\b|\\bOdisha\\b|\\bPunjab\\b|\\bRajasthan\\b|\\bSikkim\\b|\\bTamil\\ Nadu\\b|\\bTelangana\\b|\\bTripura\\b|\\bUttar\\ Pradesh\\b|\\bUttarakhand\\b|\\bWest\\ Bengal\\b)"
+    },
+    {
+        "name": "location",
+        "pattern": "(?i)(\\bAndhra\\ Pradesh\\b|\\bArunachal\\ Pradesh\\b|\\bAssam\\b|\\bBihar\\b|\\bChhattisgarh\\b|\\bGoa\\b|\\bAndaman\\ and\\ Nicobar\\ Islands\\b|\\bChandigarh\\b|\\bDadra\\ and\\ Nagar\\ Haveli\\b|\\bDaman\\ and\\ Diu\\b|\\bNational\\ Capital\\ Territory\\ of\\ Delhi\\b|\\bLakshadweep\\b|\\bPondicherry\\b|\\bGujarat\\b|\\bHaryana\\b|\\bHimachal\\ Pradesh\\b|\\bJammu\\ and\\ Kashmir\\b|\\bJharkhand\\b|\\bKarnataka\\b|\\bKerala\\b|\\bMadhya\\ Pradesh\\b|\\bMaharashtra\\b|\\bManipur\\b|\\bMeghalaya\\b|\\bMizoram\\b|\\bNagaland\\b|\\bOdisha\\b|\\bPunjab\\b|\\bRajasthan\\b|\\bSikkim\\b|\\bTamil\\ Nadu\\b|\\bTelangana\\b|\\bTripura\\b|\\bUttar\\ Pradesh\\b|\\bUttarakhand\\b|\\bWest\\ Bengal\\b)"
+    }
+]

@@ -1,0 +1,10 @@
+policies:
+  - name: KerasPolicy
+    epochs: 200
+    batch_size: 50
+    max_training_samples: 300
+  - name: FallbackPolicy
+    nlu_threshold: 0.1
+    core_threshold: 0.1
+  - name: MemoizationPolicy
+  - name: MappingPolicy
